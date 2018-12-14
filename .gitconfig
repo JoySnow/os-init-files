@@ -1,0 +1,12 @@
+[user]
+	name = XiaoXue Wang
+	email = xiaoxwan@redhat.com
+[http]
+	sslverify = false
+[alias]
+    s = status
+    c = commit
+    a = add
+    ch = checkout
+    l = log
+    b = branch
